@@ -1,4 +1,4 @@
-# E-black-eats
+# Cypress template
 
 ## Install dependency
 
