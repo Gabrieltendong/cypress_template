@@ -1,1 +1,6 @@
-{}
+{
+    "testFiles": "features/**/*.feature",
+    "baseUrl": "https://www.google.com",
+    "chromeWebSecurity": false,
+    "ignoreTestFiles": []
+}
